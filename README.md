@@ -7,7 +7,6 @@ A simple Python implementation of the classic **Hangman** game. Guess the letter
 - [How to Play](#how-to-play)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Code Walkthrough](#code-walkthrough)
 - [License](#license)
 
 ## Description
@@ -45,18 +44,21 @@ If you guess the word correctly, you'll see a "You win!" message. If you lose al
 
 2. Navigate into the directory:
 
-  ```bash
-  cd hangman-game
+   ```bash
+   cd hangman-game
 
 3. Ensure you have Python installed by running:
 
-  ```bash
-  python --version
+   ```bash
+   python --version
 
 4. Install any dependencies (though none are specified for this basic version).
 
 5. Run the game:
 
-```bash
-python hangman.py
+   ```bash
+   python hangman.py
 
+## License
+
+This project is licensed under the MIT License.
